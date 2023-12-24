@@ -8,7 +8,7 @@ import {
   faTint,
   faTachometerAlt,
 } from "@fortawesome/free-solid-svg-icons";
-import "./styles.css";
+import "./App.css";
 
 const api = {
   key: "4f8e795dcd6dbf7b9f5276bff095ffc1",
